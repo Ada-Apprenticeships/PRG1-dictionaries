@@ -70,7 +70,4 @@ python activity-1-grades-lookup/grades_lookup.py
 
 If `python` is not recognised, use `python3` instead.
 
-## Reference
 
-`reference/` holds supporting material. Do not open anything in there until
-after the class discussion it belongs to.
